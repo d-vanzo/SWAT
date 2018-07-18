@@ -36,3 +36,6 @@ bin
 # add nogit directory which contains personal test code
 scripts/nogit
 scripts/nogit/*
+
+#customize
+*sublime*
