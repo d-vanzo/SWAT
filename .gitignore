@@ -39,3 +39,4 @@ scripts/nogit/*
 
 #customize
 *sublime*
+!build/cross_cmake.sh
